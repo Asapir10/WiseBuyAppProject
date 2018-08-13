@@ -1,0 +1,101 @@
+[
+  {
+    "name": "KOTEJ 3% Tnuva",
+    "Weight": "150g",
+    "price": "5.90",
+    "image": "tnuva_Kotej.PNG",
+    "sale": "3 for 15",
+    "BARCODE": "7290004127329"
+  },
+
+  {
+    "name" : "WHITE CHEESE 5% Tnuva",
+    "Weight" : "150g",
+    "price" : "5.90",
+    "image" : "white_Cheese_Tnuva5.jpg",
+    "sale": "3 for 15",
+    "BARCODE" : "7290000047621"
+  },
+  {
+    "name" : "WHITE CHEESE 5% Ski",
+    "Weight" : "150g",
+    "price" : "5.10",
+    "image" : "white_Cheese_Ski.PNG",
+    "sale": "3 for 15",
+    "BARCODE" : "1345677908823865"
+  },
+  {
+    "name" : "WHITE CHEESE 5% Tara",
+    "Weight" : "150g",
+    "price" : "5.60",
+    "image" : "white_Cheese_Tara5.png",
+    "sale": "3 for 15",
+    "BARCODE" : "1345677908823865"
+  },
+  {
+    "name" : "MILK 3% Tnuva",
+    "Weight" : "1 Liter",
+    "price" : "3.60",
+    "image" : "tnuva_milk3.PNG",
+    "sale": "3 for 15",
+    "BARCODE" : "7290004131074"
+  },
+  {
+    "name" : "MILK 3% Tara",
+    "Weight" : "1 Liter",
+    "price" : "4.60",
+    "image" : "tara_milk3.PNG",
+    "sale": "3 for 15",
+    "BARCODE" : "1345677908823865"
+  },
+  {
+    "name" : "MILK 3% Tnuva",
+    "Weight" : "2 Liter",
+    "price" : "6.60",
+    "image" : "bigtnuvamilk.PNG",
+    "sale": "3 for 15",
+    "BARCODE" : "1345677908823865"
+  },
+  {
+    "name" : "SHIFFON BREAD BERMAN",
+    "Weight" : "200G",
+    "price" : "12.60",
+    "image" : "bermansShiffonBread.png",
+    "sale": "2 for 20",
+    "BARCODE" : "1345677908823865"
+  },
+  {
+    "name" : "WHITE BREAD ANGEL",
+    "Weight" : "150G",
+    "price" : "9.80",
+    "image" : "angelBread.png",
+    "sale": "2 for 16",
+    "BARCODE" : "1345677908823865"
+  },
+  {
+    "name" : "SHIFFON BREAD BERMAN",
+    "Weight" : "200G",
+    "price" : "12.60",
+    "image" : "bermansShiffonBread.png",
+    "sale": "2for 20",
+    "BARCODE" : "1345677908823865"
+  },
+  {
+  "name" : "Pasta Pene Osem ",
+  "Weight" : "100G",
+  "price" : "7.60",
+  "image" : "pastaOsemPene.png",
+  "sale": "2 or 13.90",
+  "BARCODE" : "1345677908823865"
+  },
+  {
+    "name" : "Pasta Pene Perfecto ",
+    "Weight" : "100G",
+    "price" : "8.50",
+    "image" : "pastaOsemPene.png",
+    "sale": "2 or 15",
+    "BARCODE" : "1345677908823865"
+  }
+
+]
+

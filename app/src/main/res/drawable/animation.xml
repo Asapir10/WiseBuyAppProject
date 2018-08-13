@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/ic_shopping4"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ic_shopping3"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ic_shopping2"
+        android:duration="400"/>
+
+    <item
+        android:drawable="@drawable/ic_local_grocery_store_black_24dp"
+        android:duration="400"/>
+</animation-list>

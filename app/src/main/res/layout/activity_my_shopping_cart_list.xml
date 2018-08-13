@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ddf9f4"
+    tools:context="com.example.aviasa100.myandroidproject.MyShoppingCartListActivity">
+
+
+
+    <ListView
+        android:id="@+id/list_view_product"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:divider="#d1d1d1"
+        android:dividerHeight="5dp">
+
+    </ListView>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp">
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="90dp"
+          android:orientation="vertical">
+          <TextView
+              android:id="@+id/total"
+              android:layout_width="match_parent"
+              android:layout_height="40dp"
+              android:text="Total: "
+              android:textSize="25sp"
+              android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/placeOrder"
+            android:text="Place order"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:onClick="onClick"
+            />
+      </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
